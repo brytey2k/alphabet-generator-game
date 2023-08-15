@@ -41,6 +41,8 @@ const RandomAlpha = () => {
     return (
         <>
             <h1 className="random-alphabet-display">{ randomAlphabet }</h1>
+
+            <p>Type the letter that is displayed on the screen</p>
         </>
     );
 }
