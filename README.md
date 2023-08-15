@@ -6,5 +6,6 @@ This project uses React and Vite
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Usage
+- Run `npm install` to install dependencies
 - Run `npm run dev` to start the development server
 - Visit http://localhost:5173 to view the app
